@@ -1,3 +1,3 @@
 # gismart
 
-Test task in the company gismart
+Test task in the company Gismart
